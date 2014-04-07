@@ -29,6 +29,13 @@
 		</dependency>
 	</dependencies>
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/FS_Align_TrakEM2</connection>
+		<developerConnection>scm:git:git@github.com:fiji/FS_Align_TrakEM2</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/FS_Align_TrakEM2</url>
+	</scm>
+
 	<repositories>
 		<!-- NB: for project parent, in case of partial checkout -->
 		<repository>
