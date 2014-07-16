@@ -25,7 +25,6 @@
 		<dependency>
 			<groupId>sc.fiji</groupId>
 			<artifactId>TrakEM2_</artifactId>
-			<version>${trakem2.version}</version>
 		</dependency>
 	</dependencies>
 
