@@ -2,15 +2,16 @@ package fsalign;
 
 import ij.IJ;
 import ij.ImagePlus;
-import ij.gui.DialogListener;
-import ij.gui.GenericDialog;
+
+import java.io.File;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Hashtable;
+import java.util.Vector;
+import java.util.concurrent.ArrayBlockingQueue;
 
 import javax.swing.filechooser.FileFilter;
-import java.awt.*;
-import java.io.File;
-import java.io.IOException;
-import java.util.*;
-import java.util.concurrent.ArrayBlockingQueue;
 
 
 /**

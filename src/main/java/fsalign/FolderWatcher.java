@@ -1,12 +1,13 @@
 package fsalign;
 
-import javax.swing.filechooser.FileNameExtensionFilter;
 import java.io.File;
 import java.io.FileFilter;
 import java.io.IOException;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.Vector;
+
+import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  * @author Larry Lindsey

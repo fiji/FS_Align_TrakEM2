@@ -7,13 +7,18 @@ import ij.io.DirectoryChooser;
 import ij.plugin.PlugIn;
 import ini.trakem2.Project;
 import ini.trakem2.display.Display;
-import mpicbg.trakem2.align.Align;
 
-import java.awt.*;
+import java.awt.Button;
+import java.awt.FlowLayout;
+import java.awt.Frame;
+import java.awt.Panel;
+import java.awt.TextField;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.util.Vector;
+
+import mpicbg.trakem2.align.Align;
 
 /**
  * @author Larry Lindsey
