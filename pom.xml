@@ -35,10 +35,10 @@
 	</ciManagement>
 
 	<scm>
-		<connection>scm:git:git://github.com/fiji/FS_Align_TrakEM2</connection>
-		<developerConnection>scm:git:git@github.com:fiji/FS_Align_TrakEM2</developerConnection>
+		<connection>scm:git:git://github.com/trakem2/FS_Align_TrakEM2</connection>
+		<developerConnection>scm:git:git@github.com:trakem2/FS_Align_TrakEM2</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/fiji/FS_Align_TrakEM2</url>
+		<url>https://github.com/trakem2/FS_Align_TrakEM2</url>
 	</scm>
 
 	<repositories>
