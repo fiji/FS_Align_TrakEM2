@@ -15,6 +15,59 @@
 	<name>plugins/FS_Align_TrakEM2.jar</name>
 	<description />
 
+	<developers>
+		<developer>
+			<id>larrylindsey</id>
+			<name>Larry Lindsey</name>
+			<email>larry.f.lindsey@gmail.com</email>
+			<url>http://imagej.net/User:Lindsey</url>
+			<roles>
+				<role>founder</role>
+				<role>lead</role>
+				<role>reviewer</role>
+				<role>support</role>
+				<role>maintainer</role>
+			</roles>
+			<timezone>-8</timezone>
+		</developer>
+		<developer>
+			<id>ctrueden</id>
+			<name>Curtis Rueden</name>
+			<email>ctrueden@wisc.edu</email>
+			<url>http://loci.wisc.edu/people/curtis-rueden</url>
+			<organization>UW-Madison LOCI</organization>
+			<organizationUrl>http://loci.wisc.edu/</organizationUrl>
+			<roles>
+				<role>maintainer</role>
+			</roles>
+			<timezone>-6</timezone>
+		</developer>
+		<developer>
+			<id>hinerm</id>
+			<name>Mark Hiner</name>
+			<email>hiner@wisc.edu</email>
+			<url>http://loci.wisc.edu/people/mark-hiner</url>
+			<organization>UW-Madison LOCI</organization>
+			<organizationUrl>http://loci.wisc.edu/</organizationUrl>
+			<roles>
+				<role>maintainer</role>
+			</roles>
+			<timezone>-6</timezone>
+		</developer>
+	</developers>
+	<contributors>
+		<contributor>
+			<name>Johannes Schindelin</name>
+			<url>http://imagej.net/User:Schindelin</url>
+			<properties><id>dscho</id></properties>
+		</contributor>
+		<contributor>
+			<name>Stephan Saalfeld</name>
+			<url>http://imagej.net/User:Saalfeld</url>
+			<properties><id>axtimwalde</id></properties>
+		</contributor>
+	 </contributors>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/FS_Align_TrakEM2</connection>
 		<developerConnection>scm:git:git@github.com:fiji/FS_Align_TrakEM2</developerConnection>
