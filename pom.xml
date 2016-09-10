@@ -19,7 +19,6 @@
 		<developer>
 			<id>larrylindsey</id>
 			<name>Larry Lindsey</name>
-			<email>larry.f.lindsey@gmail.com</email>
 			<url>http://imagej.net/User:Lindsey</url>
 			<roles>
 				<role>founder</role>
@@ -28,7 +27,6 @@
 				<role>support</role>
 				<role>maintainer</role>
 			</roles>
-			<timezone>-8</timezone>
 		</developer>
 		<developer>
 			<id>ctrueden</id>
