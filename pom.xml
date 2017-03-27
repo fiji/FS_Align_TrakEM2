@@ -87,8 +87,8 @@
 		<url>https://github.com/fiji/FS_Align_TrakEM2/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/FS_Align_TrakEM2/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/fiji/FS_Align_TrakEM2</url>
 	</ciManagement>
 
 	<properties>
