@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>FS_Align_TrakEM2</artifactId>
-	<version>2.0.4-SNAPSHOT</version>
+	<version>2.0.4</version>
 
 	<name>FS Align TrakEM2</name>
 	<description>FS Align TrakEM2 plugin for Fiji.</description>
@@ -79,7 +79,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/fiji/FS_Align_TrakEM2</connection>
 		<developerConnection>scm:git:git@github.com:fiji/FS_Align_TrakEM2</developerConnection>
-		<tag>HEAD</tag>
+		<tag>FS_Align_TrakEM2-2.0.4</tag>
 		<url>https://github.com/fiji/FS_Align_TrakEM2</url>
 	</scm>
 	<issueManagement>
